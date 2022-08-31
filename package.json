@@ -2,10 +2,10 @@
   "name": "testgame",
   "main": "testgame",
   "theme": "syntax",
-  "version": "2.13.0",
+  "version": "0.0.0",
   "description": "test",
   "keywords": [
-    "test",
+    "test"
   ],
   "repository": "https://github.com/potjamaan/test",
   "license": "MIT",
